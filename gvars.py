@@ -1,0 +1,3 @@
+
+streamImage = ''
+shutDown = False
